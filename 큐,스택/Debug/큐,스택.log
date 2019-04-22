@@ -1,0 +1,3 @@
+﻿  queue.cpp
+c:\users\youmw\source\repos\큐,스택\큐,스택\queue.cpp(39): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  큐,스택.vcxproj -> C:\Users\youmw\source\repos\큐,스택\Debug\큐,스택.exe
